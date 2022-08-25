@@ -2,7 +2,7 @@
  * Authors: Isabella Beshlian, Benny Ho
  * Date: 2022/08/25
  *
- * insert purpose here lasjfkashldfk,s
+ * Introduction and college major
  *
  */
 
@@ -13,7 +13,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Isabella Beshlian\n");
-
+  printf("Howdy, I'm Isabella Beshlian!\n");
+  printf("I'm majoring in Computer Engineering!\n");
   return 0;
 }
